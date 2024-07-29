@@ -1,1 +1,33 @@
-La informática también llamada compitación es  el área de la ciencia que se encarga de estudiar la administracióin de métodos, técnicas y procesos con el fin de almacenar, procesar y transmitir información y datos en formato digital. La informática abarca desde disciplinas teóricas (como algoritmos, teoria de la computación y teoría de la información) hasta disciplinas prácticas (incluido el diseño y la implementación de hardware y software). La informática generalmente se considera un área de inversitación academica y distinta de la programación informática. 
+La informática también llamada compitación es  el área de la ciencia que se encarga de estudiar la administracióin de métodos, técnicas y procesos 
+con el fin de almacenar, procesar y transmitir información y datos en formato digital. La informática abarca desde disciplinas teóricas 
+(como algoritmos, teoria de la computación y teoría de la información) hasta disciplinas prácticas (incluido el diseño y la implementación de hardware y software). 
+La informática generalmente se considera un área de inversitación academica y distinta de la programación informática.
+
+De esa manera, la informática se refiere al procesamiento automático de información, dispositivos electrónicos, sistemas computacionales.
+
+El término informática tambien es sinónimo de contar y calcular. En sus inicios, se utilizaba para referirse a la acción realizada por máquinas mecánicas de
+computación y, antes de eso, a calculadoras humanas.
+
+Los sistemas informáticos deben contar con la capacidad de cumplir tres tareas básicas: entrada (input, captación de la información), procesamiento y salida 
+(transmisión de los resultados).
+
+No existe una definición consensuada sobre el término. Sin embargo, la asociación de docentes de informática y computación de la republica Argentina ha tomado 
+una posición, definiendola de la siguiente manera: <<La informática es la disciplina o campo de estudio que abarca el conjunto de conocimientos, métodos y 
+técnicas referentes al tratamiento automático de la información, junto con sus teorías y aplicaciones prácticas, con el fin de almacenar, procesar y transmitir
+datos e información en formato digital utilizando sistemas computacionales. Los datos son la materia prima para que, mediante su proceso, se obstenga como 
+resultado información. Para ello, la informática crea y/o emplea sistemas de procesamiento de datos, que incluyen medios físicos (hardware) en interacción con 
+medios lógicos (software) y las personas que los programan y/o los usan (humanware)>>.
+
+Es por lo que se hace distinción entre este término y las ciencias de la computación, puesto que el segundo engloba la parte más teórica mientras que informática
+se refiere a la aplicabilidad de esta anterior en datos usando dispositivos electrónicos. De hecho, se definen cinco subdisciplinas del campo de la informatica:
+ciencias de la computación, ingeniería informática, sistemas de información, tecnología de la información e ingeniería de software.
+
+La informática es la forma científica de procesar la información. Este procesamiento consiste en ordenar, seleccionar, ejecutar cálculos de forma que nos
+permita extraer conclusiones de la información manipulada. Procesar información es transformar datos primarios en información organizada, significativa y 
+útil, que a su vez está compuesta de datos. La informática, que se ha desarrollado rápidamente a partir de la segunda mitad del siglo xx con la aparición 
+de tecnologías como el circuito integrado, el Internet y el teléfono móvil, es la rama de la tecnología que estudia el tratamiento automático de la información.
+
+En 1957, Karl Steinbuch añadió la palabra alemana Informatik en la publicación de un documento denominado Informatik: Automatische Informationsverarbeitung 
+(Informática: procesamiento automático de información). El soviético Alexander Ivanovich Mikhailov fue el primero en utilizar Informatik con el significado 
+de «estudio, organización y diseminación de la información científica», que sigue siendo su significado en dicha lengua. En inglés, la palabra informatics 
+fue acuñada independiente y casi simultáneamente por Walter F. Bauer, en 1962, cuando Bauer cofundó la empresa Informatics General, Inc.

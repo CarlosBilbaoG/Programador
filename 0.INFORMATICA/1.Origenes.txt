@@ -1,0 +1,35 @@
+La disciplina de la informática es anterior a la creación de las computadoras. Ya en la antigüedad se conocían métodos para realizar cálculos matemáticos, 
+por ejemplo, el algoritmo de Euclides. En el siglo xvii comenzaron a inventarse máquinas calculadoras. La herramienta más antigua conocida para su uso en 
+computación es el ábaco, y se cree que fue inventado en Babilonia alrededor del 2400 a. C. Su diseño original de uso fue por líneas dibujadas en arena con 
+guijarros. Esta fue la primera ayuda de cálculo conocida, precediendo a los métodos griegos por 2000 años.
+
+En el siglo xix, se desarrollaron las primeras máquinas programables, es decir, que el usuario podría modificar la secuencia de acciones a realizar a través 
+de algoritmos específicos. La primera propuesta registrada para el uso de la electrónica digital en la informática fue el artículo de 1931 «El uso de tiratrones 
+para el conteo automático de fenómenos físicos a alta velocidad» de C. E. Wynn-Williams. El artículo de 1938 de Claude Shannon «Un análisis simbólico de los 
+circuitos de conmutación y relés» introdujo la idea de utilizar la electrónica para las operaciones de álgebra booleana.
+
+El concepto de un transistor de efecto de campo fue propuesto por Julius Edgar Lilienfeld en 1925. John Bardeen y Walter Brattain, mientras trabajaban con 
+William Shockley en Bell Labs, construyó el primer transistor en funcionamiento, el transistor de contacto puntual, en 1947. En 1953, la Universidad de 
+Mánchester construyó la primera ordenador transistorizado, llamada ordenador de transistores. Sin embargo, los primeros transistores de unión eran dispositivos 
+relativamente voluminosos que eran difíciles de producir en masa, lo que los limitaba a una serie de aplicaciones especializadas. El transistor de efecto de 
+campo de óxido de metal-silicio (MOSFET, o transistor MOS) fue inventado por Mohamed Atalla y Dawon Kahng en Bell Labs en 1959. Fue el primer transistor 
+verdaderamente compacto que podía ser miniaturizado y producido en masa para una amplia gama de usos. El MOSFET hizo posible construir chips de circuitos 
+integrados de alta densidad, dando lugar a lo que se conoce como la revolución informática o revolución de la microcomputadora.
+
+En los inicios del procesamiento automático de la información, con la informática solo se facilitaban los trabajos repetitivos y monótonos del área 
+administrativa. La automatización de esos procesos trajo como consecuencia directa una disminución de los costes y un incremento en la productividad. 
+En la informática convergen los fundamentos de las ciencias de la computación, la programación y también las metodologías para el desarrollo de software, 
+la arquitectura de las computadoras, las redes de computadores, la inteligencia artificial y ciertas cuestiones relacionadas con la electrónica. Se puede 
+entender por informática a la unión sinérgica de todo este conjunto de disciplinas. Esta disciplina se aplica a numerosas y variadas áreas del conocimiento 
+o la actividad humana, por ejemplo: gestión de negocios, almacenamiento y consulta de información; monitorización y control de procesos, industria, robótica, 
+comunicaciones, control de transportes, investigación, desarrollo de juegos, diseño computarizado, aplicaciones/herramientas multimedia, medicina, biología, 
+física, química, meteorología, ingeniería, arte, etc. Puede tanto facilitar la toma de decisiones a nivel gerencial (en una empresa) como permitir el control 
+de procesos críticos. Actualmente, es difícil concebir un área que no esté vinculada o requiera del apoyo de la informática. Esta puede cubrir un enorme 
+abanico de funciones, que van desde las más simples cuestiones domésticas hasta los cálculos científicos más complejos. Entre las funciones principales de la 
+informática se enumeran las siguientes:
+
+1.Creación de nuevas especificaciones de trabajo.
+2.Desarrollo e implementación de sistemas informáticos.
+3.Sistematización de procesos.
+4.Optimización de los métodos y sistemas informáticos existentes.
+5.Facilitar la automatización de datos y formatos.
