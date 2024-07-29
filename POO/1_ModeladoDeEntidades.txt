@@ -1,0 +1,1 @@
+Modelado de Entidades: Clases para representar entidades como pacientes, doctores, citas, etc.

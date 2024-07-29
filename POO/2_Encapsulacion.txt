@@ -1,0 +1,1 @@
+Encapsulación de Datos Sensibles: Proteger la información mediante encapsulación.

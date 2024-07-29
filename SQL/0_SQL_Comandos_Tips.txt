@@ -1,0 +1,54 @@
+
+Curso SQL Hola mundo: https://www.youtube.com/watch?v=uUdKAYl-F7g&t=724s
+
+Definiciones y Tips:
+
+    INT (INTEGER)= numeros enteros (0, 1, 255, 6000)
+    FLOAT = numeros con decimales (61.23, 0,5)
+    VARCHAR = cadena de caracteres ('hola mundo')
+    id = identificador unico, deberia seleccionarse como PRIMARY KEY para que este cumpla con ser una llave primaria que identifique de forma unica cada fila de una tabla
+    Comanetarios = para comentar debe ser despues de  dos guiones --Asi se podria comentar dentro de SQL
+
+Comandos:
+    
+    create database; = crea base de datos con su nombre
+        Ejemplo: create database holamundo;
+
+    show databases; = Muestra las bases de datos existentes
+
+    CREATE TABLE = crear tabla
+        Ejemplo: CREATE TABLE animales{ 
+                    id int,
+                    tipo varchar (255),
+                    estado varchar (255),    
+                    PRIMARY KEY (id)
+                    };
+
+    ALTER TABLE = modificar tabla 
+
+        ALTER TABLE animales MODIFY COLUMN id int auto_increment;
+
+Ejemplo del video en curso:
+        Ejemplo 1 (crear base de datos):
+
+
+            create database holamundo;
+            show databases;
+            use holamundo;
+            CREATE TABLE animales{
+                id int,
+                tipo varchar (255),
+                estado varchar (255),
+                PRIMARY KEY (id)
+            }
+
+        Ejemplo 2 (Insertar datos a la base de datos):
+
+            INSERT INTO animales (tipo, estado) VALUES ('chanchito', 'feliz');
+
+            // Dará error, debido al id seleccionado como PRIMARY KEY, se requiere modificar tabla y mediante comando especificar que este campo sea auto_increment
+            // ALTER TABLE animales MODIFY COLUMN id int auto_increment;
+            // Ejecutar nuevamente INSERT INTO animales (tipo, estado) VALUES ('chanchito', 'feliz');
+
+        
+            

@@ -1,0 +1,1 @@
+Uso de Herencia: Crear diferentes tipos de personal con comportamientos específicos.

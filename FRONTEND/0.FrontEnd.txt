@@ -1,0 +1,2 @@
+¿Qué es el Frontend?
+    Es la parte frontal de un sitio, es lo que el usuario puede ver e interactuar dentro de una página
