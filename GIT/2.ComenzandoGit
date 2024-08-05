@@ -1,0 +1,99 @@
+1.  Con que archivos podemos trabajar en git:
+    
+    Archivos de Código Fuente:
+
+        Lenguajes de Programación: Archivos como .c, .cpp, .java, .py, .js, .ts, .php, .rb, .go, entre otros.
+        
+        Marcos de Trabajo y Bibliotecas: Archivos de configuración y script como package.json, Gemfile, pom.xml, build.gradle, entre otros.
+
+    Archivos de Configuración:
+
+        Configuraciones del Proyecto: Archivos como .gitignore, .gitattributes, .editorconfig, archivos de configuración de CI/CD (.travis.yml, circle.yml, Jenkinsfile).
+
+        Configuraciones de Herramientas: Archivos como .eslintrc.js, .prettierrc, tsconfig.json.
+
+    Documentación:
+
+        Documentos de Texto: Archivos como .txt, .md (Markdown), .rst.
+
+        Documentos en Formato de Texto Enriquecido: Archivos como .docx, .odt.
+
+    Archivos de Datos:
+
+        Archivos de Configuración de Base de Datos: .sql, .db.
+
+        Archivos de Datos en Formato Común: .json, .xml, .csv, .yml.
+
+    Recursos Multimedios:
+
+        Imágenes: .jpg, .png, .gif, .svg.
+
+        Videos: .mp4, .avi, .mov.
+
+    Archivos Binarios:
+
+        Ejecutables y Librerías: .exe, .dll, .so.
+
+        Archivos Comprimidos: .zip, .tar.gz.
+
+    Archivos de Proyecto y Configuración de IDE:
+
+        Archivos Específicos de IDEs: .vscode, .idea.
+        
+    Archivos Especiales en Git
+
+        .gitignore: Archivo que especifica qué archivos o directorios deben ser ignorados por Git.
+        
+        .gitattributes: Archivo para definir atributos específicos de archivos y configuraciones de tratamiento de archivos en Git.
+
+    Buenas Prácticas
+        
+        Ignorar Archivos innecesarios: Utiliza .gitignore para evitar que archivos temporales, compilados o específicos del entorno de desarrollo sean rastreados por Git.
+
+        Mantener el Repositorio Limpio: Evita agregar archivos grandes o binarios innecesarios que puedan hacer que el repositorio crezca demasiado.
+
+
+2.  Como usar el terminal de git bash:
+
+    Pasos y comandos:
+
+    1. Abrir git bash
+    2. Como saber donde estoy: pwd
+    3. Limpiar la consola: clear
+    4. Como moverme entre discos y carpetas: cd (D:) o (carpeta)        //Se puede usar tab para autocompletar el nombre de la carpeta
+    5. Como saber que contenido tengo en mi posición: ls
+    6. Como volver entre carpetas: cd ..
+    7. Como saber que archivos/permisos tengo dentro de mi carpeta: ls -l
+    8. Como saber que archivos PRIVADOS/permisos tengo dentro de mi carpeta: ls -al 
+    
+3.  Comandos básicos de git bash:
+
+    1. Crear archivo: touch hola.txt
+    2. Ver contenido: cat hola.txt
+    3. Ver historial de comandos escritos: history
+    4. Repetir comandos del historial: !numero
+    5. Listado de comandos: comando --help (Ej: rm --help)
+    6. Borrar: rm hola.txt
+    7. Forzar el borrar: rm -f
+    8. Crea la carpeta .init para contener los cambios y comandos: git init
+    9. Mostrar el status de nuestros archivos: git status
+    10. Subir la version de los cambios: git add hola.txt
+    11. Subir los cambios de la carpeta actual: git add .
+    12. Agrega comentario en el commit (commit es el historial de cambios): git commit -m
+    13. Mostrar el historial de cambios: git log
+    14. Borrar un archivo subido queriendo conservar el archivo: git rm --cached hola.txt 
+    15. Borrar un archivo subido sin querer consevar el archivo: git rm --f hola.txt 
+    16. Como ver lo que se modifica de un commit a otro: git show
+
+
+4.  Como agregar tu nombre y correo electronico:
+
+    git config --global user.name "Carlos Bilbao"
+    git config --global user.email carlos.bilbaog@gmail.com
+
+5.  Como moverse entre los commits:
+
+    1. Abrir el archivo en vscode: code hola.txt
+    2. Como volver a una version anterior: // git log         (Para ver el historial de cambios, donde debemos copiar el codigo)
+                                           // git checkout    (pegar el commit)
+    3. Como volver a la rama Master: git checkout master

@@ -1,0 +1,31 @@
+¿Por qué usar un sistema de control de versiones?
+
+Usar un sistema de control de versiones como Git ofrece múltiples beneficios, especialmente en el desarrollo de software. 
+
+Razones clave:
+
+Historial de Cambios: Git guarda un historial detallado de todos los cambios realizados en el código, permitiendo ver qué se ha cambiado, cuándo y por quién. 
+                      Esto es útil para entender la evolución del proyecto y para revertir a versiones anteriores si es necesario.
+
+Colaboración: Facilita la colaboración entre desarrolladores, permitiendo que varios miembros del equipo trabajen en paralelo en diferentes partes del código. 
+              Los cambios pueden ser combinados (merge) de forma eficiente.
+
+Ramas (Branches): Git permite crear ramas para desarrollar nuevas características o corregir errores de forma aislada del código principal.
+                  Esto permite experimentar sin afectar la estabilidad del proyecto.
+
+Backup y Recuperación: Actúa como una copia de seguridad del código fuente. Si se pierde el código localmente, siempre se puede recuperar la última versión
+                       desde el repositorio remoto.
+
+Integración Continua y Despliegue Continuo (CI/CD): Git se integra fácilmente con sistemas de CI/CD, permitiendo automatizar pruebas y despliegues cada vez
+                                                    que se realizan cambios en el código.
+
+Revisión de Código: Facilita la revisión de código mediante pull requests o merge requests, donde los miembros del equipo pueden revisar y comentar los 
+                    cambios antes de integrarlos en la rama principal.
+
+Trazabilidad: Permite rastrear el origen de cada cambio, identificando la causa de un problema específico y quién lo realizó.
+
+Documentación: Los mensajes de commit sirven como documentación para entender las razones detrás de los cambios realizados en el código.
+
+Flexibilidad: Git es muy flexible y puede adaptarse a diferentes flujos de trabajo (workflows), ya sea Git Flow, GitHub Flow, GitLab Flow, entre otros.
+
+Desempeño: Git es muy eficiente en términos de almacenamiento y manejo de cambios, incluso para proyectos grandes.

@@ -1,7 +1,7 @@
-La informática también llamada compitación es  el área de la ciencia que se encarga de estudiar la administracióin de métodos, técnicas y procesos 
+La informática también llamada computación es el área de la ciencia que se encarga de estudiar la administración de métodos, técnicas y procesos 
 con el fin de almacenar, procesar y transmitir información y datos en formato digital. La informática abarca desde disciplinas teóricas 
 (como algoritmos, teoria de la computación y teoría de la información) hasta disciplinas prácticas (incluido el diseño y la implementación de hardware y software). 
-La informática generalmente se considera un área de inversitación academica y distinta de la programación informática.
+La informática generalmente se considera un área de investigación academica y distinta de la programación informática.
 
 De esa manera, la informática se refiere al procesamiento automático de información, dispositivos electrónicos, sistemas computacionales.
 
