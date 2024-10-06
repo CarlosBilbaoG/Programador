@@ -1,0 +1,84 @@
+Webinar gratuito intro a desarrollo web Front-End
+
+Coordinador: Leopoldo Pérez Sepúlveda
+Instructor CODING DOJO / ing. Civil tematico / Doctor en tecnologia: Patricio Olivares
+Correo: polivares@codingdojo.la
+Solicitud de la grabación: educacioncontinua@inacap.cl
+
+¿Qué es el desarrollo Front-End?
+
+    - Enfocado en la interfaz de usuario.
+    - HTML: Define la estructura.
+    - CSS: Controla la presentación.
+    - JavaScript: Añade interactividad.
+
+Escribiendo codigo IDE 
+
+    - Entorno de desarrollo Integrado (Integrated Development Environment).
+    - Permite escribir y editar codigo.
+    - Herramientas adicionales (debug, autocompletado, integración con sistemas de control, etc).
+    - Ejemplos: Visual Studio Code / Sublime Text / Atom
+
+HTML 
+
+    - Hyper Text Markup Language.
+    - Estructura el contenido web.
+    - Ejemplos de elementos:
+        - <h1>: Títulos
+        - <p>: Parrafos de texto
+        - <a>: Enlaces
+        - <img> Imagenes
+Ejemplo:
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <title>Totó Enterprise S.A.</title>
+    </head>
+    <body>
+    <h1 id="titulo">Bienvenido a Totó Enterprise S.A.</h1>
+    <p>Somos la cokmpañia lider en productos y servicios para mascotas, dirigida por nuestro CEO: el señor Totó.</p>
+    <img src="images/srtoto.jpg" alt="Señor Totó, CEO de Totó Enterprise S.A.">
+    <p>El señor Totó se especializa en crear experiencias unicas para sus clientes caninos y felinos.</p>
+    </body>
+    </html>
+
+CSS
+
+    - Cascading Style Sheets.
+    - Permite controlar el diseño visual de elementos HTML modificando sus propiedades.
+    - Ejemplos de propiedades:
+        - color: Modifica el color de un texto 
+        - background-color: Parrafos de texto 
+        - font-family: Define la tipografia
+
+Ejemplo:
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+    }
+    h1 {
+        color: #333;
+    }
+    p {
+        color: #666;
+    }
+
+JavaScript
+
+    - Lenguaje de programacion que permite paginas más interactivas.
+    - Es capaz de manipular el DOM (Document Object Model).
+    - Es capaz de responder a eventos tales como clicks, movimientos, etc.
+
+Ejemplo:
+
+    document.getElementById("titulo").addEventListener('click', function(){
+    this.style.color = this.style.color === 'red' ? '#333' : 'red';
+    })
+
+Front-End: Campo laboral
+
+    - Desarrollador Front-End: Creación y mantenimiento de interfaces de usuario con HTML, CSS y JavaScript.
+    - Diseñador web: Diseño de experiencias visualmente atractivas y usables.
+    - Especialista en UI/UX: Mejora de la experiencia del usuario y realización de pruebas de usabilidad.

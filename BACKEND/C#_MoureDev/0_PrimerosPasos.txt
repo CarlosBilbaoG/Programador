@@ -1,0 +1,138 @@
+C#
+    ¿Quien lo ha desarrollado?
+
+        Microsoft
+
+    ¿Por qué lo ha desarrollado? 
+
+        Querian heredar la sintaxis de C++, pero en una version propia y mejor, por eso el nombre de C# refiriendose al do(C) sostenido(#) diciendo que era una mejor version que C++
+
+    ¿En que año fue desarrollado?
+
+        2000
+
+    Usos habituales
+
+        -   Crear software, probar software e implementar software.
+
+    Instalación
+
+        Se suele utilizar .NET en Visual Studio con los herramientas que vayamos a utilizar
+
+    Como crear un proyecto en Terminal
+
+        // crea proyecto dentro de la carpeta ubicada, crea la carpeta obj con diferentes ficheros
+
+        dotnet new console
+
+        // ejecutar proyecto .cs
+
+        dotnet run
+
+    Fundamentos
+
+        Es un lenguaje tipado, debemos definir el tipo de datos, debe compilarse, es orientado a objetos, funcional de alto nivel y 
+        amigable en sintaxis.
+
+    Sintaxis 
+
+        using system;
+
+        namespace CSharpHelloWorld
+        { 
+            Class HelloWorld
+            {
+                static void Main(string[] args) 
+                {
+                    // Comentario de una linea
+
+                    Console.WriteLine("Hola,C#");
+
+                    /*
+                    Esto es un comentario de varias lineas
+                    */
+
+                    // Texto
+
+                    string myString = "Esto es una cadena de texto";
+                    myString = "Aqui cambio el valor de la cadena de texto";
+                    Console.WriteLine(myString);
+                    
+                    // Numeros enteros
+
+                    int myInt = 7;
+                    myInt = myInt + 4;
+                    Console.WriteLine(myInt);
+                    Console.WriteLine(myInt - 1);
+
+                    // Numeros decimales con una longitud reducida
+
+                    float myFloat = 6.5f;
+                    Console.WriteLine(myFloat);
+
+                    // Numeros decimales con mayor longitud
+
+                    double myDouble = 6.5;
+                    Console.WriteLine(myDouble);
+
+                    // Prueba de que la consola imprima un resultado de los ejemplos previos
+
+                    Console.WriteLine(myInt + myDouble + myFloat);
+
+                    // Es un dato que puede utilizar cualquier valor anterior mencionado
+
+                    dynamic myDinamyc = 6;
+                    myDinamyc = "Mi dato dinamico";
+                    Console.WriteLine(myDinamyc);
+
+                    // Algo que puede ser true o false
+
+                    bool myBool = true;
+                    myBool = false;
+                    Console.WriteLine(myBool);
+
+                    // Como agregar los valores de una variable en una cadena de texto, agregando previamente el simbolo $
+
+                    Console.WriteLine($"El Valor de mi entero es {myInt} y el de mi bool es {myBool}");
+
+                    // Valores inmutables que se conocen en tiempo de compilación y que no cambian durante la vida del programa, en donde siempre definimos el tipo de dato en este caso string 
+
+                    const string myConst = "mi constante";
+                    console.WriteLine(myConst);
+
+                    /* Estructuras (array, set, tuple)*/
+
+                    var myArray = new string[] {"Carlos", "Bilbao", "Toko"};
+                    Console.WriteLine(myArray[0]);
+
+                    /* Bucles (for, foreach )*/
+
+                    for (int index = 0; index < 10; index++)
+                    {
+                        Console.WriteLine(index);
+                    }
+
+                    // Sirve para recorrer estructuras que ya estan formadas
+
+                    foreach (var myItem in myArray)
+                    {
+                        Console.WriteLine(myItem);
+                    }
+
+                    /* Flujos (if) */
+
+                    if (myInt == 11 && myBool == true)
+                    {
+                        Console.WriteLine("El valor es 11");
+                    }
+                    else if  (myInt == 12 || myBool == false)
+                    {
+                        Console.WriteLine("El valor es 12");
+                    }
+                    else 
+                    {
+                        console.WriteLine("El valor no es 11 ni 12");
+                    }
+                }    
+            }   
+        }

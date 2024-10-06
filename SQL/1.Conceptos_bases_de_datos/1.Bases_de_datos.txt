@@ -1,0 +1,4 @@
+¿Que son las bases de datos?
+    Datos organizados de manera estructurada, que nos permiten encontrarlos de manera rápida.
+    
+    Ejemplo: guias telefonicas, las guias telefonicas se organizaban de manera estructurada y alfabeticamente para organizar los datos.

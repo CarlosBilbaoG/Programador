@@ -1,0 +1,13 @@
+¿Que son los motores de bases de datos?
+
+Son piezas de software, son desarrollos que permiten administrar la base de datos.
+
+Ejemplo: Ejecutar consultas, Grabar o eliminar información, realizar consultas, crear usuarios, roles o permisos, etc.
+
+Cada motor tiene su propio lenguaje y manera de trabajar
+
+Los motores mas populares son MySQL, MariaDB, SQLServer, Oracle, Big Query, Aurora con compatibilidad en MySQl y Aurora con compatibilidad en PostgreSQL.
+
+Por otro lado, tenemos los motores NO SQL, Son motores que han sido creado para determinadas aplicaciones, como juegos, redes sociales y todo lo que no tenga que ver con una estructura de datos.
+
+Motores NO SQL populares: MongoDB, DynamoDB, DocumentDB, Redis, Amazon Redshift, / cache: Elasticache
