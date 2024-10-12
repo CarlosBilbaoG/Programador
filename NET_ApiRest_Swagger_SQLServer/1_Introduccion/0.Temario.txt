@@ -1,0 +1,52 @@
+Contenido del curso:
+    A. Introduccion:
+
+        1-Temario del curso
+        2- Preparacion de entorno
+        3- Creacion de nuestro proyecto
+    
+    B. Personalizando Proyecto:
+        
+        4- Creamos clase del modelo y nuestro controlador
+        5- Teoria inyeccion de dependencias
+        6- Inyeccion de dependencias en nuestro proyecto
+        7- DTO (Data Transfer Layer)
+
+    C. Peticiones POST, PUT, DELETE
+
+        8- Creando mecanismo para una peticion POST (Agregar un nuevo elemento a nuestra base de datos)
+        9- Creando mecanismo para una peticion PUT (Modificar un elemento de nuestra base de datos)
+        10- Creando mecanismo para una peticion DELETE (Eliminar un elemento de nuestra base de datos)
+
+    D. Persistencia en base de datos:
+
+        11- Instalación del motor de SQL Server
+        12- Instalacion de Management Studio
+        13- Creando nuestra base de datos y tabla de productos
+        14- Alta de productos en SQL Server 
+        15- Como obtener todos los productos y por codigo de producto en SQl Server
+        16- Modificar productos en SQl Server
+        17- Borrar productos en SQl Server
+    
+    E. Programacion Asincrona:
+
+        18- Conceptos de Programacion asincrona 
+        19- Adaptamos interfaz y repositorios para programacion asincrona
+        20- Adaptamos controlador para programacion asincrona
+        21- Modificamos startup y probamos cambios 
+
+    F. Gestion de Log
+
+        22- Añadir paquete para gestion de log 
+        23- Guardar en un log la traza completa de la excepcion
+
+    G. Autenticacion JWT 
+
+        24- Teoria sobre Json Web Token
+        25- Creamos estructura base datos para usuarios API
+        26- Añadiendo JWT a nuestra API 
+        27- Swagger: Como añadir cabecera
+
+    H. Conclusiones
+        
+        28- Conclusiones interactivas con alumnos
